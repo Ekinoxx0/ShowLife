@@ -1,0 +1,10 @@
+name: ShowLife
+version: 0.0.1
+main: fr.ShowLife.Main.Main
+author: [Ekinoxx]
+
+commands:
+  life:
+    description: Affiche la vie d'un joueur.
+  all-life:
+    description: Affiche la vie de tout les joueurs.
